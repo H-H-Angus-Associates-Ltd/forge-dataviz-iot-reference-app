@@ -8,7 +8,7 @@
  */
 var SiteConfig = function (env, buildNumber) {
     var LocalDev = {
-        assetRoot: "http://localhost:9081",
+        assetRoot: "http://35.183.173.11:9081",
         assetUrlPrefix: "http://localhost:9081/assets",
         lmvUrl: "https://autodeskviewer.com/viewers/latest",
         baseUrl: "",
